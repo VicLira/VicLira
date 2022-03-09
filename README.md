@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" style="display: inline-block"><br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=VicLira&show_icons=true&theme=vision-friendly-dark" alt="Victor Lira's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicLira&layout=compact&theme=vision-friendly-dark" alt="Victor Lira's most languages"/>
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=VicLira&show_icons=true&theme=vision-friendly-dark" alt="Victor Lira's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicLira&layout=compact&theme=vision-friendly-dark" alt="Victor Lira's most languages"/>
 </p>
 
 <br><br>
@@ -76,19 +76,3 @@ Here are some ideas to get you started:
 </a>
 
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
