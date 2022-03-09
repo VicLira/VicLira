@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:inline-block">
-<img align="right" height="400em" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/70662154?s=400&u=740ea31c05bbf09d525ce0e18f8b10c4dfaa8e46&v=4"/>
+<img align="right" height="400em" style="border-radius:50%;" src="https://user-images.githubusercontent.com/70662154/157471632-3c7595e6-eaf6-4889-8edd-cd6f0f363ccd.gif"/>
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/70662154/157436664-d8a7042c-ce1f-45fb-969f-649c74dafca2.gif" width="64px">, I'm Victor Lira</h1>
 </div>
 
