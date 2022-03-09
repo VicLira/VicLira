@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=VicLira&show_icons=true&theme=vision-friendly-dark" alt="Victor Lira's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicLira&layout=compact&theme=vision-friendly-dark" alt="Victor Lira's most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicLira&show_icons=true&theme=vision-friendly-dark" alt="Victor Lira's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicLira&layout=compact&theme=vision-friendly-dark" alt="Victor Lira's most languages"/>
 </p>
 
 <br><br>
