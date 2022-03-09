@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/70662154/157436664-d8a7042c-ce1f-45fb-969f-649c74dafca2.gif" width="64px">, I'm Victor Lira</h1>
 </div>
 
-- 👨‍🎓 I'm studying 3 year systems development at [ETEC Cidade Tiradentes](https://www.cps.sp.gov.br/etecs/etec-cidade-tiradentes-cidade-tiradentes/)
+
+- 👨‍🎓 3 year systems development at [ETEC Cidade Tiradentes](https://www.cps.sp.gov.br/etecs/etec-cidade-tiradentes-cidade-tiradentes/)
 
 - 🔭 I’m currently working at [Digital Innovation One](https://web.dio.me/users/victor_liracarlos?tab=achievements)
 
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [ReactJs](https://pt-br.reactjs.org/) | [ReactNative](https://reactnative.dev/) | [NodeJS](https://nodejs.org/en/)
 
-- 🤔 I’m looking for help with growing up in the web development
+- 🤔 I’m looking for help with growing in the web development
 
 - 📫 How to reach me: [Email](mailto:victor.liracarlos@gmail.com)
 
