@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div display="inline-block">
+<div style="display:inline-block">
 <img align="right" height="400em" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/70662154?s=400&u=740ea31c05bbf09d525ce0e18f8b10c4dfaa8e46&v=4"/>
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/70662154/157436664-d8a7042c-ce1f-45fb-969f-649c74dafca2.gif" width="64px">, I'm Victor Lira</h1>
 </div>
@@ -53,10 +53,11 @@ Here are some ideas to get you started:
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicLira&show_icons=true&theme=vision-friendly-dark" alt="Victor Lira's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicLira&layout=compact&theme=vision-friendly-dark" alt="Victor Lira's most languages"/>
-</p>
+<div align="center">
+  <a href="https://github.com/VicLira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicLira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viclira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
 
 <br><br>
 
