@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 
 <div style="display:inline-block">
 <img align="right" height="400em" style="border-radius:50%;" src="https://user-images.githubusercontent.com/70662154/157471632-3c7595e6-eaf6-4889-8edd-cd6f0f363ccd.gif"/>
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/70662154/157436664-d8a7042c-ce1f-45fb-969f-649c74dafca2.gif" width="64px">, I'm Victor Lira</h1>
+<h1 align="left">Olá <img src="https://user-images.githubusercontent.com/70662154/157436664-d8a7042c-ce1f-45fb-969f-649c74dafca2.gif" width="64px">, Me Chamo Victor Lira</h1>
 </div>
 
 
-- 👨‍🎓 3 year systems development at [ETEC Cidade Tiradentes](https://www.cps.sp.gov.br/etecs/etec-cidade-tiradentes-cidade-tiradentes/)
+- 👨‍🎓 3 Ano Ensino Médio Integrado Desenvolvimento de Sistemas [ETEC Cidade Tiradentes](https://www.cps.sp.gov.br/etecs/etec-cidade-tiradentes-cidade-tiradentes/)
 
-- 🔭 I’m currently working at [Digital Innovation One](https://web.dio.me/users/victor_liracarlos?tab=achievements)
+- 🔭 Perfil Digital Innovation One [Digital Innovation One](https://web.dio.me/users/victor_liracarlos?tab=achievements)
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://victoretec.atwebpages.com/portfolio/)
+- 👨‍💻 Encontre Meus Projetos aqui [Portfolio](http://victoretec.atwebpages.com/portfolio/)
 
-- 🌱 I’m currently learning [ReactJs](https://pt-br.reactjs.org/) | [ReactNative](https://reactnative.dev/) | [NodeJS](https://nodejs.org/en/)
+- 🌱 Atualmente Estudando [ReactJs](https://pt-br.reactjs.org/) | [ReactNative](https://reactnative.dev/) | [NodeJS](https://nodejs.org/en/)
 
-- 🤔 I’m looking for help with growing in the web development
+- 🤔 Procurando sempre evoluir na programação, no momento Programação WEB
 
-- 📫 How to reach me: [Email](mailto:victor.liracarlos@gmail.com)
+- 📫 Onde me encontrar: [Email](mailto:victor.liracarlos@gmail.com)
 
 <br><br>
 
