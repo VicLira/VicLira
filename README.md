@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 🔭 Perfil Digital Innovation One [Digital Innovation One](https://web.dio.me/users/victor_liracarlos?tab=achievements)
 
-- 👨‍💻 Encontre Meus Projetos aqui [Portfolio](http://victoretec.atwebpages.com/portfolio/)
-
 - 🌱 Atualmente Estudando [ReactJs](https://pt-br.reactjs.org/) | [ReactNative](https://reactnative.dev/) | [NodeJS](https://nodejs.org/en/)
 
 - 🤔 Procurando sempre evoluir na programação, no momento Programação WEB
