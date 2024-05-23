@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 </div>
 
 
-- 👨‍🎓 3 Ano Ensino Médio Integrado Desenvolvimento de Sistemas [ETEC Cidade Tiradentes](https://www.cps.sp.gov.br/etecs/etec-cidade-tiradentes-cidade-tiradentes/)
+- 👨‍🎓 Concluido Ensino Médio Integrado Desenvolvimento de Sistemas (2020-2022) [ETEC Cidade Tiradentes](https://www.cps.sp.gov.br/etecs/etec-cidade-tiradentes-cidade-tiradentes/)
+  
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas (2023-2024) [SPTECH](https://www.sptech.school/)
 
 - 🔭 Perfil Digital Innovation One [Digital Innovation One](https://web.dio.me/users/victor_liracarlos?tab=achievements)
 
-- 🌱 Atualmente Estudando [ReactJs](https://pt-br.reactjs.org/) | [ReactNative](https://reactnative.dev/) | [NodeJS](https://nodejs.org/en/)
+- 🌱 Atualmente Estudando [PowerBI]([https://pt-br.reactjs.org/](https://www.microsoft.com/pt-br/power-platform/products/power-bi)) | [AWS]([https://reactnative.dev/](https://aws.amazon.com/pt/free/?gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wrNLKmusgIQciHed-9MML1XUOBUbPCFNvBAIqbHWI7oYjQy-WG8B7EaApPXEALw_wcB&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=Cj0KCQjw0ruyBhDuARIsANSZ3wrNLKmusgIQciHed-9MML1XUOBUbPCFNvBAIqbHWI7oYjQy-WG8B7EaApPXEALw_wcB:G:s&s_kwcid=AL!4422!3!696214219374!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)) | [Python]([https://nodejs.org/en/](https://www.python.org/))
 
-- 🤔 Procurando sempre evoluir na programação, no momento Programação WEB
+- 🤔 Procurando sempre evoluir na programação, no momento Engenharia/Análise de Dados
 
-- 📫 Onde me encontrar: [Email](mailto:victor.liracarlos@gmail.com)
+- 📫 Onde me encontrar: [Email](mailto:victor.liracarlos@gmail.com) OR [+55 11 98100-1289](1198100-1289)
 
 <br><br>
 
