@@ -73,17 +73,11 @@
 
 ## 🌐 Onde Me Encontrar
 
-<a href="https://codepen.io/VictorLira" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/CodePen-0077B5?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
 <a href="https://web.dio.me/users/victor_liracarlos?tab=achievements" target="_blank">
   <img align="center" src="https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=dio&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/victor-lira-carlos/" target="_blank">
+<a href="https://www.linkedin.com/in/vic-lira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/liravitu" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 📫 **Email**: [victor.liracarlos@gmail.com](mailto:victor.liracarlos@gmail.com)  
