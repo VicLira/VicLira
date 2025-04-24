@@ -18,7 +18,7 @@
 ## 🧪 Experiência Profissional
 
 **🔸 F3 Capital (Remoto)** — *Data Engineer Jr (Jul 2024 - Atual)*  
-> Arquiteturas orientadas a eventos usando AWS Kinesis, SQS e SNS
+> Responsável pela atualização e manutenção de pipelines de dados ponta a ponta, desde a construção de scripts em Python para extração e transformação, até a carga final em MongoDB. Utilização de Apache NiFi para orquestração e enriquecimento de dados, garantindo escalabilidade e eficiência nos fluxos. Além da otimização de fluxos com DuckDB.
 
 **🔹 yHub (Remoto)** — *Data Engineer (Ago 2023 - Jan 2024)*  
 > Criação de pipelines de dados escaláveis com AWS (Athena, S3, EC2, RDS, Step Functions)
