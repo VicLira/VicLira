@@ -50,12 +50,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFA500?style=for-the-badge)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-0096D6?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
